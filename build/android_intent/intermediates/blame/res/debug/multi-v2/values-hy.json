@@ -1,0 +1,34 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Users/macos/Downloads/glover-142/codecanyon-31145802-fuodz-grocery-food-pharmacy-store-parcelcourier-delivery-mobile-app-with-php-laravel-backend/1.4.2-fix-2/Apps/Driver/New Owners/build/android_intent/intermediates/res/merged/debug/values-hy/values-hy.xml",
+            "map": [
+                {
+                    "source": "/Users/macos/.gradle/caches/transforms-2/files-2.1/a21f00887b861fb606946a8a04b98b34/core-1.1.0/res/values-hy/values-hy.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/macos/Downloads/glover-142/codecanyon-31145802-fuodz-grocery-food-pharmacy-store-parcelcourier-delivery-mobile-app-with-php-laravel-backend/1.4.2-fix-2/Apps/Driver/New Owners/build/android_intent/intermediates/incremental/mergeDebugResources/merged.dir/values-hy/values-hy.xml",
+            "map": [
+                {
+                    "source": "/Users/macos/.gradle/caches/transforms-2/files-2.1/a21f00887b861fb606946a8a04b98b34/core-1.1.0/res/values-hy/values-hy.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        }
+    ]
+}

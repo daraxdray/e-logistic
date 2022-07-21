@@ -1,0 +1,4 @@
+com/ajinasokan/flutter_fgbg/BuildConfig.java
+ com.ajinasokan.flutter_fgbg.BuildConfig
+com/ajinasokan/flutter_fgbg/FlutterFGBGPlugin.java
+ com.ajinasokan.flutter_fgbg.FlutterFGBGPlugin
